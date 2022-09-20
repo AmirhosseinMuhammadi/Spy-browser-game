@@ -1,0 +1,24 @@
+header img{
+    width:100%;
+}
+body{
+    background-color: rgba(253,212,120,255);
+}
+div{
+    background-color: cornflowerblue;
+    border:5px double rgb(27, 75, 129);
+}
+p{
+    text-align: center; 
+    font-size:5vw;
+}
+input{
+    background-color:rgba(253,212,120,255);
+    border-radius: 20%;
+    margin-left: 25%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    font-size: 5vw;
+    block-size: 10vw;
+    inline-size: 50%;
+}
