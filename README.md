@@ -1,1 +1,5 @@
 # Spy-browser-game
+
+This is a web application(game) in which each player sees Spy role on the screen or a place. Notice all the players who are not spy, see the same place not a different one. Now players should ask different questions from each other to determine who the spy(spies) is(are). Also spies should try to guess the place and survive. Based on questions and answers players decide to kick another player who is supposed to be a spy out of the game. If a spy is kicked out he/she must say his role. However, if the person is not a spy he/she (I am trying not to be a sexist) must not say the place name. They only say that they are not spies. If all the spies are kicked out the game is over and winners are those who saw the place. But if a spy guesses the place or number of normal players(who are not spies) is too low and many of them are kicked out, the game is done and spies are the winners. Notice that nobody should find out another person's role in the start of the game.
+
+The app supports two languages. There are not so much places for english. I wasn't just in the mood. You can add more places in the php file in line 
